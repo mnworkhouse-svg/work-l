@@ -1,0 +1,6 @@
+.env
+db.sqlite3
+.claude
+PROJECT_ANALYSIS.md
+filebrowser.db
+__pycache__
